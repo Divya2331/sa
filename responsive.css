@@ -1,0 +1,154 @@
+@media only screen and (max-width: 800px) {
+.story{
+   width:100%;
+}
+.success h1{
+ font-size:30px;
+}
+.success p{
+	font-family: 'Droid serif',sans-serif;
+    font-size:16px;
+    font-style:italic;
+	display: block;
+    padding: 20px 0 35px;
+    margin: 0;
+}
+.image{
+	display:none;
+}
+.coach h2{
+	float:right;
+	margin-left:-100px;
+	font-size:30px;
+	margin-top:-50px;	
+}
+.coach p{
+	float:right;
+	margin-left:0px;
+	margin-right:10px;
+	padding:20px;
+}
+.skill li{
+	font-size:18px;
+	margin:auto;
+	margin-left:-18px;
+	margin-bottom:8px;
+}
+.facilities li{
+	line-height:30px;
+	display:block;
+    margin-right:40px;
+}
+.founder h2{
+	margin-left:30px;
+	margin-bottom:30px;
+	padding-top:30px;
+}
+.center{
+	margin-left:-60px;
+	background-color:#F2F3F4;
+}
+.paragraph p{
+	margin-left:-130px;
+	padding-right:0px;
+	font-size:18px;
+    background-color:#F2F3F4;  
+}
+.flex-container {
+	 flex-direction:column;
+}
+.flex-container div{
+	width:100%;
+}
+.first p{
+	padding-left:30px;
+	font-size:20px;
+}
+.second p{
+	padding-left:20px;
+}
+.study{
+	padding-left:10px;
+}
+.study h4{
+	margin-left:-10px;
+    margin-right:20px;
+}
+.office{
+	padding-left:10px;
+}
+.office h4{
+	margin-left:-30px;
+    margin-right:30px;
+}
+.us{
+	padding-top:300px;
+}
+.about{
+	flex-direction:column;
+}
+.about div{
+	width:100%
+}
+.say p{
+	font-size:18px;
+	text-align:justify;
+	margin-right:50px;
+}
+.five p{
+	font-size:18px;
+	text-align:justify;
+	margin-right:50px;
+}
+.six p{
+	font-size:18px;
+	text-align:justify;
+	margin-right:50px;
+}
+.last{
+	flex-direction:column;	
+	height:1100px;
+}
+.last div{
+	width:100%;
+}
+.icon{
+	margin-left:-30px;	
+}
+.letter{
+	background-color:black;
+	margin-top:-10px;
+}
+.letter h3{
+	margin-top:-30px;
+	font-size:25px;
+}
+.course h3{
+	margin-top:-30px;
+	font-size:25px;
+	margin-left:-40px;
+}
+.course li{
+	margin-left:-40px;
+}
+.final{
+	margin-top:-50px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
